@@ -5,7 +5,7 @@
 src="https://img.shields.io/github/followers/adelefaell?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
 
 * 🖥️  See my portfolio at [adelfael.vercel.app](https://adelfael.vercel.app/)
-* ✉️  You can contact me at [adel0fael@gmail.com](mailto:adel0fael@gmail.com)
+* ✉️  You can contact me at [adelefaell@gmail.com](mailto:adelefaell@gmail.com)
 * 🧠  Constantly Learning new things
 * ⚡  I do slieght of hands with cards
 
